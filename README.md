@@ -14,3 +14,8 @@ I'm looking forward to work in Game Development (using Godot) in the future.
 - I want to learn how to play electric guitar
 - I like some indie shows and games
 - Is it already obvious I like games? No?
+
+## Certifications
+<img src="images/ccna-enterprise-networking-security-and-automation.png" width="140">
+<img src="images/ccna-introduction-to-networks.png" width="140">
+<img src="images/ccna-switching-routing-and-wireless-essentials.png" width="140">
