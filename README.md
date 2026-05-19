@@ -16,6 +16,8 @@ I'm looking forward to work in Game Development (using Godot) in the future.
 - Is it already obvious I like games? No?
 
 ## Certifications
-<img src="images/ccna-enterprise-networking-security-and-automation.png" width="140">
-<img src="images/ccna-introduction-to-networks.png" width="140">
-<img src="images/ccna-switching-routing-and-wireless-essentials.png" width="140">
+<div style="white-space: nowrap;">
+  <img src="images/ccna-enterprise-networking-security-and-automation.png" width="140">
+  <img src="images/ccna-introduction-to-networks.png" width="140">
+  <img src="images/ccna-switching-routing-and-wireless-essentials.png" width="140">
+</div>
