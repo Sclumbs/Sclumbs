@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there! ✨
+I'm Ace, also known as Sclumbs, and I'm an aspiring programmer from Portugal.
+I've got a passion for different forms of creation, such as digital art and writing.
 
-<!--
-**Sclumbs/Sclumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learning 📚
+Currently enrolled in college! So, I'm a bit of a beginner.
+Languages: C#, Python, Lua/Luau, HTML, CSS, JavaScript and XML/XSD/XSLT
+I've also worked with Virtual Machines, Cisco Packet Tracer and SQL Servers
 
-Here are some ideas to get you started:
+I'm looking forward to work in Game Development (using Godot) in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts 💡
+- I have 2 cats
+- I want to learn how to play electric guitar
+- I like some indie shows and games
+- Is it already obvious I like games? No?
