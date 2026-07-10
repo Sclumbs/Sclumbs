@@ -1,11 +1,10 @@
 ## Hello there! ✨
-I'm Ace, also known as Sclumbs, and I'm an aspiring programmer from Portugal.
-I've got a passion for different forms of creation.
+I'm Ace, also known as Sclumbs, and I'm an aspiring programmer from Portugal!
 
 ## Learning 📚
-Currently enrolled in college! So, I'm a bit of a beginner.
-Languages: C#, Python, Lua/Luau, HTML, CSS, JavaScript and XML/XSD/XSLT
-I've also worked with Virtual Machines, Cisco Packet Tracer and SQL Servers
+Currently enrolled in college! Thus...I'm a bit of a beginner.
+Languages: C#, Python, Lua/Luau, HTML, CSS, JavaScript, SQL and XML/XSD/XSLT.
+I've also worked with Virtual Machines and Cisco Packet Tracer!
 
 I'm looking forward to work in Game Development (using Godot) in the future.
 
