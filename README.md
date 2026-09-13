@@ -1,16 +1,16 @@
-## Hello there! ✨
-I'm **Ace**, also known as Sclumbs, and I'm an aspiring programmer from Portugal!
+## Introduction
+What's up, clowns. I'm **Ace**. I learn about computers and stuff
 
-## Learning 📚
-Currently enrolled in college! Thus...I'm a bit of a beginner.
+## Development
+Currently enrolled in college so expect disappointment
 
 **Languages:** C#, Python, Lua/Luau, HTML, CSS, JavaScript, SQL and XML/XSD/XSLT.
 
-I've also worked with **Virtual Machines** (Windows Servers, Windows Desktop, Ubuntu Server, Ubuntu Desktop) and **Cisco Packet Tracer**!
+I've also worked with **Virtual Machines** (Windows Servers, Windows Desktop, Ubuntu Server, Ubuntu Desktop) and **Cisco Packet Tracer**.
 
 **I'm looking forward to work in Game Development (using Godot) in the future.**
 
-## Interests 💡
+## Things I like/Would like to do
 - Composing music/playing an instrument (Piano, E-Guitar or Drums)
 - Animating & 2D Drawing
 - Pixel Art
